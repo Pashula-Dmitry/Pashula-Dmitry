@@ -5,8 +5,8 @@
 ### Check my website: [fkrkm.ua.insave.ovh](https://fkrkm.ua.insave.ovh/)
 
 
-> A good book is like a conversation with a smart person. <br/>
-> ***Leo Tolstoy***
+> Success is one percent inspiration, ninety-nine percent perspiration. <br/>
+> ***Thomas Edison***
 
 
 ![JavaSript](https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=javascript)
@@ -19,7 +19,7 @@
 # Contacts 
 ### My own mail: dpashula@gmail.com 💬
 ### Check my Instagram:  [dmiitry__19](https://www.instagram.com/dmiitry__19/) 💬
-### Telegram: [@Dmitry2221] 😄
+### Telegram: @Dmitry2221 😄
 <!--
 **Pashula-Dmitry/Pashula-Dmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
