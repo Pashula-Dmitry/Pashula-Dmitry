@@ -8,6 +8,7 @@
 > Success is one percent inspiration, ninety-nine percent perspiration. <br/>
 > ***Thomas Edison***
 
+### Technologies
 
 ![JavaSript](https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=javascript)
 ![Reactjs](https://img.shields.io/badge/-REACTJS-090909?style=flat-square&logo=REACT)
@@ -15,6 +16,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-mySQL-090909?style=flat-square&logo=mySQL)
+
+### Сommunicative languages
+
+![English](https://img.shields.io/badge/English-yellowgreen)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-blue)
+![Russian](https://img.shields.io/badge/Russian-green)
+
 
 # Contacts 
 ### My own mail: dpashula@gmail.com 💬
