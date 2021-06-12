@@ -2,7 +2,6 @@
 
 ## I'm a begginer *Front-end developer* from Dnipro.
 
-### Check my Instagram:  [dmiitry__19](https://www.instagram.com/dmiitry__19/)
 ### Check my website: [fkrkm.ua.insave.ovh](https://fkrkm.ua.insave.ovh/)
 
 
@@ -17,6 +16,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-mySQL-090909?style=flat-square&logo=mySQL)
 
+# Contacts 
+### My own mail: dpashula@gmail.com 💬
+### Check my Instagram:  [dmiitry__19](https://www.instagram.com/dmiitry__19/) 💬
+### Telegram: [@Dmitry2221] 😄
 <!--
 **Pashula-Dmitry/Pashula-Dmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,6 +31,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
