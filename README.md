@@ -1,9 +1,6 @@
 # 👋 Hi, my name's **Dmitry**! 
 
-## I'm a Junior *Front-end developer* from Dnipro.
-
-### Check my website: [fkrkm.ua.insave.ovh](https://fkrkm.ua.insave.ovh/)
-
+## I'm a *Front-end developer* from Dnipro.
 
 > Success is one percent inspiration, ninety-nine percent perspiration. <br/>
 > ***Thomas Edison***
